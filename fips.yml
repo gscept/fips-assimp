@@ -2,8 +2,6 @@
 ---
 
 imports:
-     fips-googletest:
-         git: https://github.com/mgerhardy/fips-googletest.git
      fips-zlib:
          git: https://github.com/floooh/fips-zlib.git
 
