@@ -2,8 +2,10 @@
 ---
 
 imports:
+     fips-googletest:
+         git: https://github.com/fips-libs/fips-googletest.git
      fips-zlib:
-         git: https://github.com/gscept/fips-zlib
+         git: https://github.com/fips-libs/fips-zlib.git
 
 exports:
     header-dirs:
